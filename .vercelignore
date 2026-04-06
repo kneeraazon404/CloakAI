@@ -1,0 +1,7 @@
+# Backend — deployed separately via Docker, not on Vercel
+api/
+worker/
+core/
+config.py
+requirements.txt
+Dockerfile
